@@ -1,4 +1,4 @@
-module github.com/nkyizbay/games/game3
+module github.com/nkyizbay/t2
 
 go 1.19
 
